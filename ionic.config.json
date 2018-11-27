@@ -1,0 +1,7 @@
+{
+  "name": "Piracicabana",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
