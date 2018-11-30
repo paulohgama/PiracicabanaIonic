@@ -1,0 +1,119 @@
+{
+	"linha": "97SH",
+	"sentido": "ida",
+	"categoria": "dias uteis",
+	"itinerario" : [
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+		
+	],
+	
+	"horario": = [
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+		
+	]
+}
+
+
+Sequência: 1 - Sentido: Ida
+Local: 4296 - TERMINAL TUDE BASTOS (IDA)
+
+Sequência: 2 - Sentido: Ida
+Local: 1400 - AV. TRABALHADORES (TERM. TUDE BASTOS)
+
+
+Sequência: 4 - Sentido: Ida
+Local: 7411 - ROTA SHOPPING
+
+
+Sequência: 5 - Sentido: Ida
+Local: 7412 - ROTA SHOPPING
+
+
+Sequência: 6 - Sentido: Ida
+Local: 7413 - ROTA SHOPPING
+
+
+Sequência: 7 - Sentido: Ida
+Local: 7414 - ROTA SHOPPING
+
+Sequência: 8 - Sentido: Ida
+Local: 1448 - LITORAL PLAZA SHOPPING
+
+
+
+
+
+
+Sequência: 1 - Sentido: Volta
+Local: 1448 - LITORAL PLAZA SHOPPING
+
+
+Sequência: 2 - Sentido: Volta
+Local: 7415 - ROTA SHOPPING
+
+
+Sequência: 3 - Sentido: Volta
+Local: 7416 - ROTA SHOPPING
+
+
+
+Sequência: 4 - Sentido: Volta
+Local: 7417 - ROTA SHOPPING
+
+
+Sequência: 5 - Sentido: Volta
+Local: 7418 - ROTA SHOPPING
+
+Sequência: 6 - Sentido: Volta
+Local: 1067 - AV. AYRTON SENNA DA SILVA,(DECATHLOON)
+
+
+Sequência: 7 - Sentido: Volta
+Local: 7419 - ROTA SHOPPING
+
+
+Sequência: 8 - Sentido: Volta
+Local: 1068 - AV. AYRTON SENNA DA SILVA
+
+
+Sequência: 9 - Sentido: Volta
+Local: 7270 - PRAÇA WASHIGNTON LUIS PEREIRA DE SOUZA
+
+
+Sequência: 10 - Sentido: Volta
+Local: 1070 - AV. AYRTON SENNA DA SILVA, S/N
+
+
+Sequência: 11 - Sentido: Volta
+Local: 7420 - ROTA SHOPPING
+
+
+Sequência: 12 - Sentido: Volta
+Local: 4288 - TERMINAL TUDE BASTOS
+
+
+
+
+
+
+
+
+

@@ -96,3 +96,50 @@
 		"00:27"
 	]
 }
+
+
+
+
+Sequência: 1 - Sentido: Ida
+Local: 4299 - TERMINAL TÁTICO 
+
+Sequência: 2 - Sentido: Ida
+Local: 1122 - R. JOSÉ BORGES NETO, 794 (PREFEITURA)
+
+Sequência: 3 - Sentido: Ida
+Local: 7230 - AV. PRESIDENTE KENNEDY
+
+Sequência: 4 - Sentido: Ida
+Local: 9956 - AV. PRESIDENTE KENNEDY, 7900
+
+
+Sequência: 5 - Sentido: Ida
+Local: 9957 - AV. PRESIDENTE KENNEDY, 1996
+
+
+Sequência: 6 - Sentido: Ida
+Local: 9905 - R. OCEÂNICA AMABILE, 565
+
+
+Sequência: 7 - Sentido: Ida
+Local: 9906 - R. OCEÂNICA AMABILE, 141
+
+Sequência: 8 - Sentido: Ida
+Local: 1231 - AV. PRESIDENTE CASTELO BRANCO, 7714
+
+
+Sequência: 9 - Sentido: Ida
+Local: 1094 - AV. DR. VICENTE DE CARVALHO, 18
+
+
+Sequência: 10 - Sentido: Ida
+Local: 1095 - AV. DR. VICENTE DE CARVALHO, 592-644
+
+
+Sequência: 11 - Sentido: Ida
+Local: 1201 - R. MANOEL PEREIRA AZÓIA, 3245
+
+
+
+
+
