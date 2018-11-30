@@ -1,4 +1,4 @@
-1 itinerário, 1 linha, 1 rota, 1 horario
+﻿1 itinerário, 1 linha, 1 rota, 1 horario
 1 rota é composta por varios enderecos
 1 horario é composto por um partida e um de chegada
 1 itinerário possui 1 linha que tem uma rota que possui varios enderecos 
@@ -28,26 +28,3 @@ Tabela de Itinerários
 		Tabela de Endereços
 	Tabela de Horario
 
-
-
-create table linhas (
-	idLinha int not null primary key,
-	nomeLinha varchar(50) not NULL
-)
-
-create table enderecos (
-	idEndereco int not null primary key,
-	nomeEndereco varchar(150) not null,
-	dsCoordenada varchar(100)
-)
-
-create table rotas (
-	idRota int not null primary key,
-	
-)
-
-create table horarios (
-	idHorario int not null primary key,
-	dsHorario varchar(5) not null
-	
-)

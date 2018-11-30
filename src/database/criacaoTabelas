@@ -1,0 +1,68 @@
+create table enderecos(
+    idEndereco int not null primary key,
+    nomeEndereco varchar(150) not null,
+    nomeSentido varchar(10) not null,
+    dsCoordenada varchar(100) not null
+);
+
+create table horarios (
+    idHorario int not null primary key,
+    dsHorario varchar(5) not null
+);
+
+
+create table rotas (
+    idRota int not null primary key,
+    identificadorRota int not null,
+    enderecoId int not null,
+    foreign key (enderecoId) references enderecos (idEndereco)	
+);
+
+create table linhas (
+    idLinha int not null primary key,
+    nomeLinha varchar(50) not NULL,
+    horarioId int not null,
+    rotaId int not null,
+    
+    foreign key (horarioId) references horarios (idHorario),
+    foreign key (rotaId) references rotas(identificadorRota)
+     
+);
+
+
+INSERT INTO enderecos VALUES (1, 'Tático', 'Ida', 'XGC3+FC Praia Grande, SP');
+INSERT INTO enderecos VALUES (2, 'R. JOSÉ BORGES NETO, 794 (PREFEITURA)', 'Ida', 'XG94+PV Praia Grande, SP');
+INSERT INTO enderecos VALUES (3, 'AV. PRESIDENTE KENNEDY, 7900', 'Ida', 'XGC8+P2 Praia Grande, SP');
+INSERT INTO enderecos VALUES (4, 'AV. DR. VICENTE DE CARVALHO, 592-644', 'Ida', 'XGFC+RV Praia Grande, SP');
+INSERT INTO enderecos VALUES (5, 'AV. SÃO FRANCISCO DE ASSIS, 1277', 'Ida', 'XGPJ+5J Praia Grande, SP');
+
+
+
+INSERT INTO horarios VALUES (1, '00:00, 05:00, 12:00, 20:00');
+
+
+INSERT INTO rotas VALUES (1, 1);
+
+
+INSERT INTO rotas VALUES (1, 1, 1);
+INSERT INTO rotas VALUES (2, 1, 2);
+INSERT INTO rotas VALUES (3, 1, 3);
+INSERT INTO rotas VALUES (4, 1, 4);
+INSERT INTO rotas VALUES (5, 1, 5);
+
+
+INSERT INTO linhas VALUES (12, '12CO', 1, 1);
+
+
+
+-- Consultando o que foi adicionado
+
+
+SELECT * FROM enderecos;
+SELECT * FROM horarios;
+SELECT * FROM rotas;
+SELECT * FROM linhas;
+
+
+
+
